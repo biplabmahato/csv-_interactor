@@ -1,0 +1,6 @@
+{
+  "name": "Tabular",
+  "description": "Upload any CSV dataset, inspect column statistics, and ask natural-language questions to generate verified calculations, tables, and charts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
